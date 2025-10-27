@@ -105,6 +105,7 @@
 <script src="...bootstrap.bundle.min.js"> → menambahkan file JavaScript Bootstrap agar fitur seperti tombol menu bisa berfungsi.
 ```
 
+<img src="https://raw.githubusercontent.com/username/repository/main/images/foto.jpg" alt="Deskripsi gambar">
 
 
 
